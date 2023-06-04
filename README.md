@@ -1,7 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
-Link to the project: https://next-news-sooty-eight.vercel.app/.
+
 
 ## Getting Started
+
+Link to the project: https://next-news-sooty-eight.vercel.app/.
 
 First, run the development server:
 
